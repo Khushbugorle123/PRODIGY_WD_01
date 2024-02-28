@@ -1,0 +1,9 @@
+// follow me on github
+// https://github.com/arbiprog
+// the website designed by :@abdulldsgnr
+function msg() {
+  document.getElementById("show").style.top = "0px";
+}
+function msg2() {
+  document.getElementById("show").style.top = "-610px";
+}
